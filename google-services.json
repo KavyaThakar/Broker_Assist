@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "890573346022",
+    "project_id": "broker-assist-bc405",
+    "storage_bucket": "broker-assist-bc405.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890573346022:android:350f6b0a6650fd6d7dd727",
+        "android_client_info": {
+          "package_name": "com.example.brokerassist.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADbr1pAOldS3Gl2RKGTg9R9kR4BkijV1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
